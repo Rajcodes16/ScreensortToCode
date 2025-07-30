@@ -26,13 +26,6 @@ We also just added experimental support for taking a video/screen recording of a
 
 ![google in app quick 3](https://github.com/abi/screenshot-to-code/assets/23818/8758ffa4-9483-4b9b-bb66-abd6d1594c33)
 
-[Learn more about video here](https://github.com/abi/screenshot-to-code/wiki/Screen-Recording-to-Code).
-
-[Follow me on Twitter for updates](https://twitter.com/_abi_).
-
-## 🌍 Hosted Version
-
-[Try it live on the hosted version (paid)](https://screenshottocode.com).
 
 ## 🛠 Getting Started
 
